@@ -4,7 +4,6 @@ title: "Meta-Ethics Matters (kinda)"
 author: "Jacob Pfau"
 categories: journal
 tags: [ethics,philosophy]
-image: cards.jpg
 ---
 
 By turn too abstract and too exacting, theories of meta-ethics appear disconcertingly unmoored from the practical business of doing good. My own preferred breed, subjectivism*, seems to have it even worse… how can we conclude anything about what we ought best do if we concede from the get go that our reasoning is entirely subjective? For the purposes of this post, let me side-step the arguments for and against subjectivism and instead address this last question: Does subjectivism have anything to say about what we ought do? In short, yes.
