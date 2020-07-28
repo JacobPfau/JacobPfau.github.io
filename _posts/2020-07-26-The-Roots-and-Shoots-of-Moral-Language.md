@@ -11,7 +11,7 @@ tags: [ethics,philosophy]
 I’m writing this post in order to clarify and share my variant of hybrid expressivism and to explore what implications this meta-ethical position has on issues of interest to effective altruism (EA). I call my position empirical expressivism. In short, empirical expressivism agrees with emotivist and expressivist theories that our use of moral language has its roots in emotional reactions and expressions of (dis)approval. Empirical expressivism then goes further to stress the importance of generalizing previous such reactions to anticipate future reactions. Empirical expressivism also stresses the importance of meta-reactions, e.g. frustration at one's own inability to empathize. Together these last two points, generalizing reaction and meta-reactions, make it possible to reconcile the expressivist position with the truth-aptness characteristic of many uses of moral language. Empirical expressivism seeks to characterize moral language as used today, but it does not rule out a future use of moral language which has some more naturalist or otherwise different basis.
 
 If much of this post is correct, it could have a number of implications which I will briefly enumerate from least to most speculative:
-* We should put more weight on intuitions whicht are closer to our lived experiences.
+* We should put more weight on intuitions which are closer to our lived experiences.
 * We should put more weight on our meta-intuitions.
 * We should take disagreement over everyday ethical judgements more seriously in a certain sense.
 * We should disregard much of population ethics.
