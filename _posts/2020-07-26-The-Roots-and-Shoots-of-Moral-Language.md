@@ -6,7 +6,7 @@ categories: journal
 tags: [ethics,philosophy]
 ---
 
-For discussion and clarification of my ideas on the Effective Altruism Forum see [here](https://forum.effectivealtruism.org/posts/38WjqWZQpzY9ANWio/my-meta-ethics-and-possible-implications-for-ea).
+For discussion and clarification of the ideas presented in this post, see the corresponding thread on the Effective Altruism Forum [here](https://forum.effectivealtruism.org/posts/38WjqWZQpzY9ANWio/my-meta-ethics-and-possible-implications-for-ea).
 
 ### Background 
 
